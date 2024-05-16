@@ -35,21 +35,21 @@
 	<td rowspan='1' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/2.jpg" width=230> </td>
 	<td rowspan='1' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/3.jpg" width=230> </td>
 </tr>
-<tr>
+<tr style = "padding: 0px" >
 	<td> <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/6.jpg" width=100> </td>
 	<td rowspan='4' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/1.jpg" width=210> </td>
 	<td rowspan='3' colspan='1' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/8.jpg" width=100 height=200> </td>
 </tr>
-<tr>
+<tr style = "padding: 0px" >
 	<td> <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/9.jpg" width=100  height=80> </td>
 </tr>
-<tr>
+<tr style = "padding: 0px" >
 	<td rowspan='3' colspan='1' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/10.jpg" width=100  height=165> </td>
 </tr>
 <tr>
 	<td> <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/11.jpg" width=100 > </td>
 </tr>
-<tr>
+<tr style = "padding: 0px" >
 	<td> <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/4.jpg" width=100> </td>
 	<td> <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/7.jpg" width=100> </td>
 	<td> <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/12.jpg" width=100> </td>
