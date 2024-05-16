@@ -23,8 +23,8 @@
  <li>I2c Display x 1 </li>
  <li>Μπαταριοθήκη 4xAΑ - με USBx 1 </li>
 </ul>
-<π>
-<π>
+<p>
+<p>
 
 <center>
 
