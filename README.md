@@ -32,8 +32,8 @@
  <caption style="text-align:center">Εικόνες από τη κατασκευή</caption>
  
 <tr>
-	<td rowspan='1' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/2.jpg" width=210> </td>
-	<td rowspan='1' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/3.jpg" width=210> </td>
+	<td rowspan='1' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/2.jpg" width=230> </td>
+	<td rowspan='1' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/3.jpg" width=230> </td>
 </tr>
 <tr>
 	<td> <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/6.jpg" width=100> </td>
