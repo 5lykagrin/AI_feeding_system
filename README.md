@@ -28,10 +28,10 @@
 
 <center>
 
-<table style = " border: 3px solid;; box-shadow: 10px 10px lightblue;">
+<table style = " border: 0px solid;; box-shadow: 10px 10px lightblue;">
  <caption style="text-align:center">Εικόνες από τη κατασκευή</caption>
  
-<tr>
+<tr style = "padding: 0px" >
 	<td rowspan='1' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/2.jpg" width=230> </td>
 	<td rowspan='1' colspan='2' > <img src="https://raw.githubusercontent.com/5lykagrin/AI_feeding_system/main/pic/3.jpg" width=230> </td>
 </tr>
