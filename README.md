@@ -58,6 +58,6 @@
 <p>
 <p>
 
-([Βίντεο από τη κατασκευή](https://youtu.be/bPmm7kJnHxI){:target="_blank" rel="noopener"})
+([Βίντεο από τη κατασκευή](https://youtu.be/bPmm7kJnHxI))
 
 
