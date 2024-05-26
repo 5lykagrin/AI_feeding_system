@@ -57,8 +57,7 @@
 </table>
 <p>
 <p>
-[Βίντεο από τη κατασκευή](https://youtu.be/bPmm7kJnHxI)
-	<br>
+
 [Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 
 
